@@ -1,6 +1,6 @@
 # Privacy-Policy
 Eurowindow - Privacy Policy
-The application Eurowindow, hereby defined as the app, requests the following potentially sensitive data:
+The application Eurowindow, here by defined as the app, requests the following potentially sensitive data:
 
 android.permission.CAMERA
 
